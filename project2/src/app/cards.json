@@ -1,6 +1,71 @@
-{
-    "prompt":{},
-    "answer":{},
-    "understood":{},
-    "time":{}
-}
+[
+    {
+      "prompt": "In Java, how many bytes is a long?",
+      "answer": "",
+      "correct": 1,
+      "time": 10
+    },
+
+    {
+        "prompt": "In Java, how many bytes is a long?",
+        "answer": "",
+        "correct": 1,
+        "time": 10
+    },
+
+    {
+        "prompt": "In Java, how many bytes is a long?",
+        "answer": "",
+        "correct": 1,
+        "time": 10
+      },
+
+      {
+        "prompt": "In Java, how many bytes is a long?",
+        "answer": "",
+        "correct": 1,
+        "time": 10
+      },
+      
+      {
+        "prompt": "In Java, how many bytes is a long?",
+        "answer": "",
+        "correct": 1,
+        "time": 10
+      },
+
+      {
+        "prompt": "In Java, how many bytes is a long?",
+        "answer": "",
+        "correct": 1,
+        "time": 10
+      },
+
+      {
+        "prompt": "In Java, how many bytes is a long?",
+        "answer": "",
+        "correct": 1,
+        "time": 10
+      },
+
+      {
+        "prompt": "In Java, how many bytes is a long?",
+        "answer": "",
+        "correct": 1,
+        "time": 10
+      },
+
+      {
+        "prompt": "In Java, how many bytes is a long?",
+        "answer": "",
+        "correct": 1,
+        "time": 10
+      },
+
+      {
+        "prompt": "In Java, how many bytes is a long?",
+        "answer": "",
+        "correct": 1,
+        "time": 10
+      }
+  ]
