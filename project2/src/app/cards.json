@@ -1,71 +1,62 @@
-[
-    {
-      "prompt": "In Java, how many bytes is a long?",
-      "answer": "",
-      "correct": 1,
-      "time": 10
+{
+    "1":{
+        "prompt": "How are you?",
+        "answer": "Fine, thank you.",
+        "understood": 0,
+        "time":0
     },
-
-    {
-        "prompt": "In Java, how many bytes is a long?",
-        "answer": "",
-        "correct": 1,
-        "time": 10
+    "2":{
+        "prompt": "How are you?",
+        "answer": "Fine, thank you.",
+        "understood": 0,
+        "time":0
     },
-
-    {
-        "prompt": "In Java, how many bytes is a long?",
-        "answer": "",
-        "correct": 1,
-        "time": 10
-      },
-
-      {
-        "prompt": "In Java, how many bytes is a long?",
-        "answer": "",
-        "correct": 1,
-        "time": 10
-      },
-
-      {
-        "prompt": "In Java, how many bytes is a long?",
-        "answer": "",
-        "correct": 1,
-        "time": 10
-      },
-
-      {
-        "prompt": "In Java, how many bytes is a long?",
-        "answer": "",
-        "correct": 1,
-        "time": 10
-      },
-
-      {
-        "prompt": "In Java, how many bytes is a long?",
-        "answer": "",
-        "correct": 1,
-        "time": 10
-      },
-
-      {
-        "prompt": "In Java, how many bytes is a long?",
-        "answer": "",
-        "correct": 1,
-        "time": 10
-      },
-
-      {
-        "prompt": "In Java, how many bytes is a long?",
-        "answer": "",
-        "correct": 1,
-        "time": 10
-      },
-
-      {
-        "prompt": "In Java, how many bytes is a long?",
-        "answer": "",
-        "correct": 1,
-        "time": 10
-      }
-  ]
+    "3":{
+        "prompt": "How are you?",
+        "answer": "Fine, thank you.",
+        "understood": 0,
+        "time":0
+    },
+    "4":{
+        "prompt": "How are you?",
+        "answer": "Fine, thank you.",
+        "understood": 0,
+        "time":0
+    },
+    "5":{
+        "prompt": "How are you?",
+        "answer": "Fine, thank you.",
+        "understood": 0,
+        "time":0
+    },
+    "6":{
+        "prompt": "How are you?",
+        "answer": "Fine, thank you.",
+        "understood": 0,
+        "time":0
+    },
+    "7":{
+        "prompt": "How are you?",
+        "answer": "Fine, thank you.",
+        "understood": 0,
+        "time":0
+    },
+    "8":{
+        "prompt": "How are you?",
+        "answer": "Fine, thank you.",
+        "understood": 0,
+        "time":0
+    },
+    "9":{
+        "prompt": "How are you?",
+        "answer": "Fine, thank you.",
+        "understood": 0,
+        "time":0
+    },
+    "10":{
+        "prompt": "How are you?",
+        "answer": "Fine, thank you.",
+        "understood": 0,
+        "time":0
+    }
+}
