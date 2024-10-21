@@ -7,10 +7,10 @@ generator client {
     provider = "prisma-client-js"
 }
 
-model Video {
+model cards {
     id Int @id @default(autoincrement())
-    name String
-    url String
-    votes Int
-    length Int
+    prompt String
+    answer String
+    correct Int
+    time Int
 }
