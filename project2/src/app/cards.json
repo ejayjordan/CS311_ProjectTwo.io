@@ -1,62 +1,62 @@
 {
     "1":{
-        "prompt": "How are you?",
-        "answer": "Fine, thank you.",
-        "understood": 0,
-        "time":0
+        "prompt": "2+2?",
+        "answer": "4",
+        "understood": 1,
+        "time":2
     },
     "2":{
-        "prompt": "How are you?",
-        "answer": "Fine, thank you.",
-        "understood": 0,
-        "time":0
+        "prompt": "2x2",
+        "answer": "4",
+        "understood": 1,
+        "time":2
     },
     "3":{
-        "prompt": "How are you?",
-        "answer": "Fine, thank you.",
-        "understood": 0,
-        "time":0
+        "prompt": "2-2",
+        "answer": "0",
+        "understood": 1,
+        "time":2
     },
     "4":{
-        "prompt": "How are you?",
-        "answer": "Fine, thank you.",
-        "understood": 0,
-        "time":0
+        "prompt": "12-2",
+        "answer": "10",
+        "understood": 1,
+        "time":2
     },
     "5":{
-        "prompt": "How are you?",
-        "answer": "Fine, thank you.",
-        "understood": 0,
-        "time":0
+        "prompt": "12x2",
+        "answer": "24",
+        "understood": 1,
+        "time":2
     },
     "6":{
-        "prompt": "How are you?",
-        "answer": "Fine, thank you.",
-        "understood": 0,
-        "time":0
+        "prompt": "10-2",
+        "answer": "8",
+        "understood": 1,
+        "time":2
     },
     "7":{
-        "prompt": "How are you?",
-        "answer": "Fine, thank you.",
-        "understood": 0,
-        "time":0
+        "prompt": "10x2",
+        "answer": "20",
+        "understood": 1,
+        "time":2
     },
     "8":{
-        "prompt": "How are you?",
-        "answer": "Fine, thank you.",
-        "understood": 0,
-        "time":0
+        "prompt": "12-4",
+        "answer": "8",
+        "understood": 1,
+        "time":2
     },
     "9":{
-        "prompt": "How are you?",
-        "answer": "Fine, thank you.",
-        "understood": 0,
-        "time":0
+        "prompt": "12-6",
+        "answer": "6",
+        "understood": 1,
+        "time":2
     },
     "10":{
-        "prompt": "How are you?",
-        "answer": "Fine, thank you.",
-        "understood": 0,
-        "time":0
+        "prompt": "6x2",
+        "answer": "12",
+        "understood": 1,
+        "time":2
     }
 }
