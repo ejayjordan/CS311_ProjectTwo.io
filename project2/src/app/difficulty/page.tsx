@@ -5,8 +5,6 @@ import React, { useEffect, useState } from 'react';
 let Names: any[] = [" "]
 let difficulty: number
 
-let test: string
-
 export default function Home() {
 const [data, setData] = useState<any[]>([]);
   const router = useRouter()
@@ -44,7 +42,7 @@ const [data, setData] = useState<any[]>([]);
         }
         if(data[String(i)]["understood"] == 100){
             data[String(i)]["time"] = 10
-        }*/
+        }
     }
 
 
