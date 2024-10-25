@@ -2,7 +2,6 @@
 
 import { useRouter } from 'next/navigation';
 import React, { useEffect, useState } from 'react';
-let Names: any[] = [" "]
 let difficulty: number
 
 export default function Home() {
@@ -16,10 +15,6 @@ const [data, setData] = useState<any[]>([]);
         setData(data)
       })
   }, [])
-
-  if(data != null){
-    Names = Object.getOwnPropertyNames(data)
-  }
 
   const [selectedDifficulty, setSelectedDifficulty] = React.useState([" ", " "]);
 
